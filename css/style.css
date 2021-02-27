@@ -3,6 +3,26 @@
 	background-repeat: no-repeat;
 	position: sticky;
 }
+header .panel{
+    position: fixed;
+    z-index: 3;
+	top: 0;
+    background-color: rgb(255, 255, 255);
+	width: 68%;
+}
+.panel2{
+	width: 1280px;
+	height: 163px;
+}
+.header{
+	padding: 15px 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.80);
+}
 .linea{
 	border: 1px solid black;
 }
@@ -50,4 +70,4 @@
 	height: 200px;
 	display: inline-block;
 }
-	
+
