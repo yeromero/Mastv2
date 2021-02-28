@@ -58,7 +58,7 @@ header .panel{
 	border:1px solid black;
 }
 .pasos{
-	width: 60%;
+	width: 150%;
 }
 .boton{
 	/*margin-top: 14%;*/
@@ -70,4 +70,8 @@ header .panel{
 	height: 200px;
 	display: inline-block;
 }
-
+/**********************************************/
+/*Guia Estilos*/
+.tamano{
+	width: 10%;
+}
